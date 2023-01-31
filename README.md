@@ -6,7 +6,9 @@ Benjamin Lira1,*, Margo Gardner2, Abigail Quirk1, Cathlyn Stone2, Arjun Rao2, Ly
 1. University of Pennsylvania
 2. University of Colorado-Boulder
 3. University of Denver
-* Corresponding author: blira@sas.upenn.edu
+
+\* Corresponding author: blira@sas.upenn.edu
+
 † These authors share equal senior authorship
 
 ## Abstract
